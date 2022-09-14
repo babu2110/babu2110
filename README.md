@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben.
 - 👀 I’m interested in AI and Machine Learning.
-- 🌱 I’m currently on a summer break which allows me to fuel and look at some LeetCode problems. Love to spend my time on learning new stuff. -->
+- 🌱 I’m currently taking CS422-UI design, CS478-Mobile development, and CS474-OOLE. Love to spend my time on learning new stuff. -->
 - 💞️ I’m looking forward to collaborate on Java, Scala, JavaScript/HMTL/CSS, C/C++, Python, C#, F#, and MySQL projects. Looking for friends who would work on a side project.
 - 📫 How to reach me batbuyannyamdavaa@yahoo.com
 
